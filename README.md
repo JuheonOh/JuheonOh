@@ -26,7 +26,7 @@
 
 ### 🛠 Tech Stack
 
-### Front-end
+#### Front-end
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff" height="25" />
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff" height="25" />
 </p>
 
-### Back-end
+#### Back-end
 
 <p>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=ffffff" height="25">
@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff" height="25" />
 </p>
 
-### Database
+#### Database
 
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff" height="25" />
