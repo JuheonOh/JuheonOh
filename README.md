@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=JuheonOh&color=auto&height=150&fontSize=60&desc=Welcome%20to%20my%20Github&descAlignY=75&descAlign=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=JuheonOh&color=4a675a&height=150&fontSize=60&desc=Welcome%20to%20my%20Github&descAlignY=75&descAlign=60" width="100%"/>
 
 ---
 
