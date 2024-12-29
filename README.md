@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JuheonOh&height=150&fontSize=60&desc=Welcome%20to%20my%20Github&descAlignY=75&descAlign=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=JuheonOh&color=auto&height=150&fontSize=60&desc=Welcome%20to%20my%20Github&descAlignY=75&descAlign=60" width="100%"/>
 
 ---
 
@@ -53,7 +53,7 @@
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff" height="25" />
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=ffffff" height="25" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=ffffff" height="25" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff" height="25" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=ffffff" height="25" />
 </p>
 
